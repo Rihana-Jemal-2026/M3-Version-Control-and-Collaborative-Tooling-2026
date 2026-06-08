@@ -8,4 +8,4 @@ const s: Student = {
 };
 
 console.log(s);
-console.log("Hello from branch TWO");
+console.log("Final merged version");
